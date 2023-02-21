@@ -6,7 +6,7 @@ The dashboards below were one of the three best dashboards in the “Power BI Ch
 
 The challenge was a simulation of a data analysis project to support a sales department.
 
-The respect of principles de UX Design were mandatory to be among the best ;)
+The respect of principles de UX Design were mandatory to be among the best !
 
 ## Challenge:
 
