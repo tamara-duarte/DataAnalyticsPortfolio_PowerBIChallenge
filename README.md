@@ -1,11 +1,15 @@
 # DataAnalyticsPortfolio_PowerBIChallenge
 
 ## Overview:
-The dashboard above was one of the three best dashboards in the “Power BI Challenge” promoted by the “Women in Data” (Mulheres em Dados) Brazilian women community in September of 2022.
 
-The challenge was a simulation of a data analyst routine when receiving a demand from a sales department. 
+The dashboards below were one of the three best dashboards in the “Power BI Challenge” promoted by the “Women in Data” (Mulheres em Dados) Brazilian women community in September of 2022.
+
+The challenge was a simulation of a data analysis project to support a sales department.
+
+The respect of principles de UX Design were mandatory to be among the best ;)
 
 ## Challenge:
+
 Bringing insights to a sales team to support the sales planning and promotions. The database was a spreadsheet with sales raw data to be transformed to generate information on the customer's profile and the best selling products, regions and months. 
 
 Check the database here: 
@@ -60,5 +64,8 @@ The dispersion graph helps the client understand outliers and offer deals to spe
 If the client desires to check more details about customers,  it is possible to click on the “Detalhes” button and check information as (name, age, city, marital status...) by year ( = Ano), month ( = mÊs) and state (estado).
 
 <img width="629" alt="Ov_Det_cliente_MED_5" src="https://user-images.githubusercontent.com/109156018/220408256-fe1145ff-724f-492d-bec2-40ba027555c4.png">
+
+Check the interactive version of this dashboard here:
+
 
 
