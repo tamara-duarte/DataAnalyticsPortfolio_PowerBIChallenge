@@ -1,17 +1,16 @@
 # DataAnalyticsPortfolio_PowerBIChallenge
 
 # Overview:
-The dashboards above were selected among the three best dashboards out of around 30 participants in the “Power BI Challenge” promoted by the “Women in Data” (Mulheres em Dados) Brazilian community in September of 2022
+The dashboard above was one of the three best dashboards in the “Power BI Challenge” promoted by the “Women in Data” (Mulheres em Dados) Brazilian women community in September of 2022.
 
 The challenge was a simulation of a data analyst routine when receiving a demand from a sales department. 
 
 # Challenge:
-Bringing insights to a sales team to support the sales planning and promotions. The database was an excel spreadsheet with sales raw data to be transformed to generate information on the customer's profile and the best selling products, regions and months. 
+Bringing insights to a sales team to support the sales planning and promotions. The database was a spreadsheet with sales raw data to be transformed to generate information on the customer's profile and the best selling products, regions and months. 
 
 Check the database here: 
 
-# Deliverables:
-The dashboards presented:
+# The Dashboards:
 
 # Financial Overview:
 
