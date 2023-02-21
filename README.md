@@ -1,6 +1,6 @@
 # DataAnalyticsPortfolio_PowerBIChallenge
 
-## Overview:
+## 👋 Overview:
 
 The dashboards below were one of the three best dashboards in the “Power BI Challenge” promoted by the “Women in Data” (Mulheres em Dados) Brazilian women community in September of 2022.
 
@@ -8,13 +8,13 @@ The challenge was a simulation of a data analysis project to support a sales dep
 
 The respect of principles de UX Design were mandatory to be among the best !
 
-## ![image](https://user-images.githubusercontent.com/109156018/220483878-62090339-03df-47ee-95aa-f3eed98230f9.png) Challenge:
+## 🚀 Challenge:
 
 Bringing insights to a sales team to support the sales planning and promotions. The database was a spreadsheet with sales raw data to be transformed to generate information on the customer's profile and the best selling products, regions and months. 
 
 Check the database here: 
 
-## The Dashboards:
+## 💻 The Dashboards:
 
 ### Financial Overview:
 
@@ -66,6 +66,48 @@ If the client desires to check more details about customers,  it is possible to 
 <img width="629" alt="Ov_Det_cliente_MED_5" src="https://user-images.githubusercontent.com/109156018/220408256-fe1145ff-724f-492d-bec2-40ba027555c4.png">
 
 Check the interactive version of this dashboard here:
+
+## How this project was developed:
+
+To develop a data analysis project I follow some utimate steps
+
+### Steps:
+
+#### Understanding the client's needs:
+
+What kind of information is needed ? 
+
+- Customer´s profile
+- Best selling products, regions and months
+
+Why?
+
+- Planning assertive promotions
+
+Who is going to consume it?
+
+- Sales manager and C-Level
+
+How often is it useful to the team?
+
+- Weekly
+How is it going to be presented?
+Power Point, but excel spreadsheets are welcome
+Is there any kind of graphic of preference?
+No preference, but are familiar with columns, pizza and tendency lines.
+Pre-analyze the database and plan the design and graphic visuals:
+The design was planned based on core UX design principles (Gestalt Principles) and respecting the “Women in Data” visual identity.  
+Present the planning to the client to warranty the alignment
+The project can be shown to client on a Miro board
+Working on Data! Define information to be extracted from data:
+Gross revenue
+Net revenue
+Comparison of revenue / year 
+Average customer age 
+Average ticket by customer age
+Biggest and smallest sale
+Using DAX formulas to extract information with the best performance  
+
 
 
 
