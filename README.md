@@ -8,7 +8,7 @@ The challenge was a simulation of a data analysis project to support a sales dep
 
 The respect of principles de UX Design were mandatory to be among the best !
 
-## Challenge:
+## ![image](https://user-images.githubusercontent.com/109156018/220483878-62090339-03df-47ee-95aa-f3eed98230f9.png) Challenge:
 
 Bringing insights to a sales team to support the sales planning and promotions. The database was a spreadsheet with sales raw data to be transformed to generate information on the customer's profile and the best selling products, regions and months. 
 
