@@ -38,11 +38,21 @@ The same applies to check details on the region. If the button "Detalhes" is cli
 
 <img width="633" alt="Ov_Det_fat_regiao_MED_4" src="https://user-images.githubusercontent.com/109156018/220408010-5f88a1fc-1d10-43d0-8329-89c0a84a1fb7.png">
 
+## Client Overview
 
+On this dashboard the client can visualize:
 
+- The biggest sale ( = Maior venda )
+- The smallest sale ( = Menor venda )
+- Sales by payment type ( = Vendas por Meio de Pagamento )
+- Sales by gender ( = Vendas por Gênero)
+- Customer´s growth by month
+- A comparison on sales by gender and month ( = Evolução Faturamento por Gênero)
+- A dispersion graph on sales / age ( = Dispersão do Faturamento por Idade 
 
 <img width="631" alt="Ov Cliente _MED_2" src="https://user-images.githubusercontent.com/109156018/220406844-eddf40a6-6134-4e82-b96b-e4edc0ed25c7.png">
 
+The dispersion graph helps the client understand outliers and offer deals to specific group of customers.
 
 <img width="629" alt="Ov_Det_cliente_MED_5" src="https://user-images.githubusercontent.com/109156018/220408256-fe1145ff-724f-492d-bec2-40ba027555c4.png">
 
