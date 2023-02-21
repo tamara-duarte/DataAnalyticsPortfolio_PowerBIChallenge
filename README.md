@@ -14,6 +14,13 @@ Check the database here:
 
 # Financial Overview:
 
+The first dashboard brings a general financial overview and by product. The client could visualize
+
+- The “Gross Revenue” (= Faturamento Bruto); the “Net Revenue” (= Faturamento Líquido) and “Nº of products sold” (= Nº de unidades vendidas) in a yearly basis 
+- A comparison between gross and net revenue by month (= Faturamento por Mês)
+- The gross revenue comparison based in the product's category, segment and category(= Faturamento por Segmento e Categoria)
+- The gross revenue comparison based in the client's purchase region (= Faturamento por Região)
+
 <img width="636" alt="Ov Financeira _MED_1" src="https://user-images.githubusercontent.com/109156018/220405452-f1a490a9-4233-43f9-9d63-6ed9fd4260b6.png">
 
 <img width="630" alt="Ov_Det_fat_produ_MED_3" src="https://user-images.githubusercontent.com/109156018/220407660-c545a8f3-eb38-4ee1-91d0-0bc1d999923a.png">
