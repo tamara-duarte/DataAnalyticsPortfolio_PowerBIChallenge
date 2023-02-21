@@ -12,7 +12,7 @@ Check the database here:
 
 # The Dashboards:
 
-# Financial Overview:
+## Financial Overview:
 
 The first dashboard brings a general financial overview and by product. The client visualizes:
 
@@ -26,19 +26,19 @@ Each of them can be visualized by year (selecting "Ano") or  by the product cate
 
 <img width="636" alt="Ov Financeira _MED_1" src="https://user-images.githubusercontent.com/109156018/220405452-f1a490a9-4233-43f9-9d63-6ed9fd4260b6.png">
 
-# Details on Revenue (by product)
+## Revenue Details (by product)
 
 If the client desires to see more details on the products, it is possible to click on the “Detalhes” button and check the gross and net revenue by specific products by year ( = Ano) and filter  by segment (= Segmento) or  Category ( = Categoria )
 
 <img width="630" alt="Ov_Det_fat_produ_MED_3" src="https://user-images.githubusercontent.com/109156018/220407660-c545a8f3-eb38-4ee1-91d0-0bc1d999923a.png">
 
-# Details on Revenue (by city)
+## Revenue Details (by city)
 
 The same applies to check details on the region. If the button "Detalhes" is clicked, it is possible to see gross and net reveneu by city by year and filter by Region ( = Região) and state ( = Estado )
 
 <img width="633" alt="Ov_Det_fat_regiao_MED_4" src="https://user-images.githubusercontent.com/109156018/220408010-5f88a1fc-1d10-43d0-8329-89c0a84a1fb7.png">
 
-## Client Overview
+## Customer Overview
 
 On this dashboard the client can visualize:
 
@@ -56,5 +56,7 @@ The dispersion graph helps the client understand outliers and offer deals to spe
 
 <img width="629" alt="Ov_Det_cliente_MED_5" src="https://user-images.githubusercontent.com/109156018/220408256-fe1145ff-724f-492d-bec2-40ba027555c4.png">
 
+If the client desires to check more details about customers,  it is possible to click on the “Detalhes” button.
 
+## Customer Details
 
