@@ -18,11 +18,13 @@ Check the database here:
 
 ### Financial Overview:
 
+The first dashboard brings a general financial overview and by product. 
+
 <div align-"center">
 <img width="636" alt="Ov Financeira _MED_1" src="https://user-images.githubusercontent.com/109156018/220405452-f1a490a9-4233-43f9-9d63-6ed9fd4260b6.png">
 </div>
 
-The first dashboard brings a general financial overview and by product. The client visualizes:
+The client visualizes:
 
 - “Gross Revenue” (= Faturamento Bruto); “Net Revenue” (= Faturamento Líquido) and “Nº of products sold” (= Nº de unidades vendidas) 
 - A comparison between gross and net revenue by month (= Faturamento por Mês)
