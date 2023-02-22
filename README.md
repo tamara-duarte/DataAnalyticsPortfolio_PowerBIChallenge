@@ -119,6 +119,11 @@ The project can be shown to client on a Miro board
 
 #### 5) Using DAX formulas to extract information with the best performance ! 
 
+Would you like to hire a project?
+
+Contact me! 
+
+tam.oduarte@gmail.com 
 
 
 
