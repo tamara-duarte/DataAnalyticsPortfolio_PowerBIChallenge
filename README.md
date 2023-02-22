@@ -27,7 +27,7 @@ The first dashboard brings a general financial overview and by product. The clie
 
 Each of them can be visualized by year (selecting "Ano") or  by the product category or region (clicking on the column corresponding to each). 
 
-
+<div align-"center">
 <img width="636" alt="Ov Financeira _MED_1" src="https://user-images.githubusercontent.com/109156018/220405452-f1a490a9-4233-43f9-9d63-6ed9fd4260b6.png">
 
 ### Revenue Details (by product)
@@ -69,9 +69,7 @@ Check the interactive version of this dashboard here:
 
 ## How this project was developed:
 
-To develop a data analysis project I follow some utimate steps
-
-### Steps:
+To develop a data analysis project I follow some utimate steps. The steps and this projects particularities are described below:
 
 #### Understanding the client's needs:
 
@@ -91,22 +89,33 @@ Who is going to consume it?
 How often is it useful to the team?
 
 - Weekly
+
 How is it going to be presented?
-Power Point, but excel spreadsheets are welcome
+
+- Power Point, but excel spreadsheets are welcome
+
 Is there any kind of graphic of preference?
-No preference, but are familiar with columns, pizza and tendency lines.
-Pre-analyze the database and plan the design and graphic visuals:
+
+- No preference, but are familiar with columns, pizza and tendency lines.
+
+#### Pre-analyze the database and plan the design and graphic visuals:
+
 The design was planned based on core UX design principles (Gestalt Principles) and respecting the “Women in Data” visual identity.  
-Present the planning to the client to warranty the alignment
+
+#### Present the planning to the client to warranty the alignment
+
 The project can be shown to client on a Miro board
-Working on Data! Define information to be extracted from data:
-Gross revenue
-Net revenue
-Comparison of revenue / year 
-Average customer age 
-Average ticket by customer age
-Biggest and smallest sale
-Using DAX formulas to extract information with the best performance  
+
+#### Working on Data! Define information to be extracted from data:
+
+ - Gross revenue
+- Net revenue
+- Comparison of revenue / year 
+- Average customer age 
+- Average ticket by customer age
+- Biggest and smallest sale
+
+#### Using DAX formulas to extract information with the best performance ! 
 
 
 
