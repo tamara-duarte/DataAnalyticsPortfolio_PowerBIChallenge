@@ -72,7 +72,7 @@ Check the interactive version of this dashboard here:
 
 To develop a data analysis project I follow some utimate steps. The steps and this projects particularities are described below:
 
-#### Understanding the client's needs:
+#### 1) Understanding the client's needs:
 
 What kind of information is needed ? 
 
@@ -99,15 +99,15 @@ Is there any kind of graphic of preference?
 
 - No preference, but are familiar with columns, pizza and tendency lines.
 
-#### Pre-analyze the database and plan the design and graphic visuals:
+#### 2) Pre-analyze the database and plan the design and graphic visuals:
 
 The design was planned based on core UX design principles (Gestalt Principles) and respecting the “Women in Data” visual identity.  
 
-#### Present the planning to the client to warranty the alignment
+#### 3) Present the planning to the client to warranty the alignment
 
 The project can be shown to client on a Miro board
 
-#### Working on Data! Define information to be extracted from data:
+#### 4) Working on Data! Define information to be extracted from data:
 
  - Gross revenue
 - Net revenue
@@ -116,7 +116,7 @@ The project can be shown to client on a Miro board
 - Average ticket by customer age
 - Biggest and smallest sale
 
-#### Using DAX formulas to extract information with the best performance ! 
+#### 5) Using DAX formulas to extract information with the best performance ! 
 
 
 
