@@ -29,6 +29,7 @@ Each of them can be visualized by year (selecting "Ano") or  by the product cate
 
 <div align-"center">
 <img width="636" alt="Ov Financeira _MED_1" src="https://user-images.githubusercontent.com/109156018/220405452-f1a490a9-4233-43f9-9d63-6ed9fd4260b6.png">
+</div>
 
 ### Revenue Details (by product)
 
