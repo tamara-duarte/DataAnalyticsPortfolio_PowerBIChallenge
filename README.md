@@ -18,6 +18,10 @@ Check the database here:
 
 ### Financial Overview:
 
+<div align-"center">
+<img width="636" alt="Ov Financeira _MED_1" src="https://user-images.githubusercontent.com/109156018/220405452-f1a490a9-4233-43f9-9d63-6ed9fd4260b6.png">
+</div>
+
 The first dashboard brings a general financial overview and by product. The client visualizes:
 
 - “Gross Revenue” (= Faturamento Bruto); “Net Revenue” (= Faturamento Líquido) and “Nº of products sold” (= Nº de unidades vendidas) 
@@ -25,11 +29,7 @@ The first dashboard brings a general financial overview and by product. The clie
 - The gross revenue comparison based in the product's category, segment and category(= Faturamento por Segmento e Categoria)
 - The gross revenue comparison based in the client's purchase region (= Faturamento por Região)
 
-Each of them can be visualized by year (selecting "Ano") or  by the product category or region (clicking on the column corresponding to each). 
-
-<div align-"center">
-<img width="636" alt="Ov Financeira _MED_1" src="https://user-images.githubusercontent.com/109156018/220405452-f1a490a9-4233-43f9-9d63-6ed9fd4260b6.png">
-</div>
+Each of them can be visualized by year (selecting "Ano") or  by the product category or region (clicking on the column corresponding to each)
 
 ### Revenue Details (by product)
 
@@ -45,6 +45,8 @@ The same applies to check details on the region. If the button "Detalhes" is cli
 
 ### Customer Overview
 
+<img width="631" alt="Ov Cliente _MED_2" src="https://user-images.githubusercontent.com/109156018/220406844-eddf40a6-6134-4e82-b96b-e4edc0ed25c7.png">
+
 On this dashboard the client can visualize:
 
 - The biggest sale ( = Maior venda )
@@ -55,10 +57,7 @@ On this dashboard the client can visualize:
 - A comparison on sales by gender and month ( = Evolução Faturamento por Gênero)
 - A dispersion graph on sales / age ( = Dispersão do Faturamento por Idade 
 
-<img width="631" alt="Ov Cliente _MED_2" src="https://user-images.githubusercontent.com/109156018/220406844-eddf40a6-6134-4e82-b96b-e4edc0ed25c7.png">
-
 The dispersion graph helps the client understand outliers and offer deals to specific group of customers.
-
 
 ### Customer Details
 
